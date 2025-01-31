@@ -1,0 +1,5 @@
+git add . //adiciona um arquivo
+git commit -m "teste" // envia para o git remoto p arquivo adicionado
+git push origin  //atualiza a pasta remota do git hub
+
+git pull //atualiza a pasta local do computador no diretório do github desktop
